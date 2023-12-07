@@ -2,3 +2,5 @@ numpy
 pandas
 jupyter
 voila
+base64
+BytesIO
