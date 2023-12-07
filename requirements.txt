@@ -1,6 +1,5 @@
 voila
-IPython
+ipython
 pandas
-io
-base64
+solara
 numpy
