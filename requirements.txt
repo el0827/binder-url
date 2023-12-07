@@ -1,6 +1,4 @@
-voila
-ipython
-pandas
-solara
 numpy
-jupyterlab>=3.0
+pandas
+jupyter
+voila
